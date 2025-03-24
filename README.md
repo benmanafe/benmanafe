@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Benjamin Eleazar Manafe (you can call me Ben)
-- 👀 I’m interested in Data Science, Machine Learning and Deep Learning
+- 👋 Hi, I’m @benmanafe
+- 👀 I’m interested in Data Science, Machine Learning, Deep Learning and Artificial Intelligence (AI)
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on -
 - 📫 How to reach me @benjamin_e_m
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: -
 
 <!---
 benmanafe/benmanafe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
